@@ -1,0 +1,4 @@
+codility-examples
+=================
+
+Codility example
